@@ -53,7 +53,5 @@ Depression affects approximately **30.6%** of university students, leading to si
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-
 For inquiries, please reach out at:  
 **Email:** [your-email@example.com]
