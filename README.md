@@ -49,9 +49,3 @@ Depression affects approximately **30.6%** of university students, leading to si
 - Address potential biases present in AI algorithms.
 - Expand the project's scope to include diverse populations and cultural contexts.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-For inquiries, please reach out at:  
-**Email:** [your-email@example.com]
